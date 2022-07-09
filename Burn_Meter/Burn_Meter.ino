@@ -25,4 +25,5 @@ void loop() {
     display_pic(index_now);
     last_index = index_now;
   }
+  delay(1000);
 }
