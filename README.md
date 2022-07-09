@@ -1,7 +1,7 @@
 # The Burn Meter: A Portable UV Index Meter
 Burn Meter is an Arduino Teensy based UV index meter with a ST7789 display capable of measuring UV index and onboard battery voltage in real time.
 
-Bill of Materials:
+## Bill of Materials:
 | Name | Description | Amount | Vendor |
 | :---: | :---: | :---: | :---: |
 | Arduino Teensy 4.0 | Microcontroller to run the system, read sensor value, and drive display screen | 1 | [Sparkfun](https://www.sparkfun.com/products/15583) |
@@ -12,3 +12,9 @@ Bill of Materials:
 | S7V8F3 | Provide regulated 3.3v from battery voltage to power the system | 1 | [Pololu](https://www.pololu.com/product/2122) |
 | Rocker Switch | Turns overall device on and off | 1 | [DigiKey](https://www.digikey.com/en/products/detail/e-switch/RA812C1121/3778076?utm_adgroup=Rocker%20Switches&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Switches_NEW&utm_term=&utm_content=Rocker%20Switches) |
 | 10k Resistors | Form voltage divider between battery and analog input pin to prevent voltage from exceeding reference | 2 | [DigiKey](https://www.digikey.com/en/products/detail/yageo/CFR-25JB-52-10K/338) |
+
+## Inspirations
+[Changing image into bitmap to be saved in flash and displayed on screen](https://www.instructables.com/Converting-Images-to-Flash-Memory-Iconsimages-for-/)
+
+[Interfacing ST7789 with Arduino](https://simple-circuit.com/arduino-st7789-ips-tft-display-example/)
+
