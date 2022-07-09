@@ -1,5 +1,5 @@
-# :fire: The BURN Meter: A Portable UV Index Meter :fire:
-BURN Meter is an Arduino Teensy based UV index meter with a ST7789 display capable of measuring UV index and onboard battery voltage in real time.
+# :fire: The B.U.R.N. Meter: A Portable UV Index Meter :fire:
+B.U.R.N. Meter is an Arduino Teensy based UV index meter with a ST7789 display capable of measuring UV index and onboard battery voltage in real time.
 
 ## Bill of Materials:
 | Name | Description | Amount | Vendor |
