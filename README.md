@@ -14,7 +14,12 @@ B.U.R.N. Meter is an Arduino Teensy based UV index meter with a ST7789 display c
 | 10k Resistors | Form voltage divider between battery and analog input pin to prevent voltage from exceeding reference | 2 | [DigiKey](https://www.digikey.com/en/products/detail/yageo/CFR-25JB-52-10K/338) |
 | Alpha Nanotech Fused Quartz Plates (Industrial Grade, 30 x 30 x 1 mm) | Protects UV sensor while allowing UV ray to pass through | 1 | [Amazon](https://www.amazon.com/Quartz-Plates-50-30-pcs/dp/B07V2K5X6Y?th=1) |
 
-## Inspirations
+## Circuit Diagram
+<p align="center">
+  <img src="https://github.com/billyen33/Portable_UV_Index_Meter/blob/main/circuit.png?raw=true" />
+</p>
+
+## Credit
 [Changing image into bitmap to be saved in flash and displayed on screen](https://www.instructables.com/Converting-Images-to-Flash-Memory-Iconsimages-for-/)
 
 [Interfacing ST7789 with Arduino](https://simple-circuit.com/arduino-st7789-ips-tft-display-example/)
