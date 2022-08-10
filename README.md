@@ -21,7 +21,7 @@ B.U.R.N. Meter is an Arduino Teensy based UV index meter with a ST7789 display c
 
 ## Circuit Diagram
 <p align="center">
-  <img src="https://raw.githubusercontent.com/billyen33/Portable_UV_Index_Meter/39048aa62011f0a64cf29916d162ce4ffd8312d3/circuit.svg?token=AP4PSHINIRPE4KB56AFWNTTC6M6PQ" />
+  <img src="https://raw.githubusercontent.com/billyen33/Portable_UV_Index_Meter/ff2f4d6ae3c4cbac0fbcb19dcfb4907006f345df/circuit.svg?token=AP4PSHML7I7OPN23BUGZAW3C6RB4W"/>
 </p>
 
 ## Credit
