@@ -13,15 +13,22 @@ B.U.R.N. Meter is an Arduino Teensy based UV index meter with a ST7789 display c
 | Rocker Switch | Turns overall device on and off | 1 | [DigiKey](https://www.digikey.com/en/products/detail/e-switch/RA812C1121/3778076?utm_adgroup=Rocker%20Switches&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Switches_NEW&utm_term=&utm_content=Rocker%20Switches) |
 | 10k Resistors | Form voltage divider between battery and analog input pin to prevent voltage from exceeding reference | 2 | [DigiKey](https://www.digikey.com/en/products/detail/yageo/CFR-25JB-52-10K/338) |
 | Alpha Nanotech Fused Quartz Plates (Industrial Grade, 30 x 30 x 1 mm) | Protects UV sensor while allowing UV ray to pass through | 1 | [Amazon](https://www.amazon.com/Quartz-Plates-50-30-pcs/dp/B07V2K5X6Y?th=1) |
-| Acrylic Sheet | Protects display screen | 1 | [Amazon](https://www.amazon.com/Acrylic-Plexiglass-Highly-Versatile-Strength/dp/B08RQJ75VN/ref=sr_1_19_sspa?crid=105ZXG7Z3J3Y0&keywords=laser+cut+acrylic&qid=1660108444&sprefix=laser+cut+acrylic%2Caps%2C102&sr=8-19-spons&psc=1) |
-| 5 mm Long M2 Screws | Fastener for screen, solder board, UV sensor, and housing back cover | 13 | [McMaster-Carr](https://www.mcmaster.com/91290A012) |
+| 1/8" Acrylic Sheet | Protects display screen | 1 | [Amazon](https://www.amazon.com/12-Clear-Acrylic-Sheet-Plexiglass/dp/B0899K949Z/ref=sr_1_1_sspa?crid=11Z2CKLK9HV9E&keywords=1%2F8%22+acrylic+sheet&qid=1660278591&sprefix=1%2F8+acrylic+sheet%2Caps%2C80&sr=8-1-spons&psc=1) |
+| 5 mm Long M2 Screws | Fastener for screen, solder board, UV sensor, and housing back cover | 13 | [McMaster-Carr](https://www.mcmaster.com/99461A914) |
 | Solderable Breadboard | Holds overall circuit | 1 | [Amazon](https://www.amazon.com/ElectroCookie-Solderable-Breadboard-Electronics-Gold-Plated/dp/B07ZV8FWM4/ref=sr_1_17_sspa?crid=1QWR0IIP8EYTR&keywords=solder+board&qid=1660109201&sprefix=solder+board%2Caps%2C77&sr=8-17-spons&psc=1) |
+
+### Tools Needed:
+- Hot glue
+- 3D printer
+- Soldering iron and solder
+- Small M2 Phillips screwdriver (or equivalent if using a different fastener from the one above)
+- Laser cutter (optional, can substitute with a saw or something that can cut acrylic)
 
 *Note: The exact breadboard used for this project is no longer on the market, so the board linked above may have different dimensions from the one the housing is designed for, requiring the user to slightly modify the housing model in order to make the board fit.
 
 ## Circuit Diagram
 <p align="center">
-  <img src="https://raw.githubusercontent.com/billyen33/Portable_UV_Index_Meter/ff2f4d6ae3c4cbac0fbcb19dcfb4907006f345df/circuit.svg?token=AP4PSHML7I7OPN23BUGZAW3C6RB4W"/>
+  <img src="https://raw.githubusercontent.com/billyen33/Portable_UV_Index_Meter/1064008820151261e454a9c1b90ef45e20e065dd/circuit.svg?token=AP4PSHI6CKR4R3D54XULZBDC6XMBS"/>
 </p>
 
 ## Credit
