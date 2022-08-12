@@ -26,6 +26,11 @@ B.U.R.N. Meter is an Arduino Teensy based UV index meter with a ST7789 display c
 
 *Note: The exact breadboard used for this project is no longer on the market, so the board linked above may have different dimensions from the one the housing is designed for, requiring the user to slightly modify the housing model in order to make the board fit.
 
+## Software Dependencies
+- [Adafruit GFX library](https://github.com/adafruit/Adafruit-GFX-Library)
+- [Adafruit ST7789 library](https://github.com/adafruit/Adafruit-ST7735-Library)
+- The latest version of the [Arduino IDE](https://www.arduino.cc/en/software) as well as the [Teensyduino](https://www.pjrc.com/teensy/td_download.html) add-on
+
 ## Circuit Diagram
 <p align="center">
   <img src="circuit.svg"/>
