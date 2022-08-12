@@ -31,6 +31,9 @@ B.U.R.N. Meter is an Arduino Teensy based UV index meter with a ST7789 display c
   <img src="https://raw.githubusercontent.com/billyen33/Portable_UV_Index_Meter/1064008820151261e454a9c1b90ef45e20e065dd/circuit.svg?token=AP4PSHI6CKR4R3D54XULZBDC6XMBS"/>
 </p>
 
+## CAD
+The full 3D printable model, reference models, and assembly for this project can be exported from [Onshape](https://cad.onshape.com/documents/7501d4a5e180f8697daa31dc/w/079db085b933182b8434c3a9/e/a7e2366d53fa75d2b895b4b3?renderMode=0&uiState=62f5dbd7cfcfff1c8c76f3f0)
+
 ## Credit
 [Changing image into bitmap to be saved in flash and displayed on screen](https://www.instructables.com/Converting-Images-to-Flash-Memory-Iconsimages-for-/)
 
