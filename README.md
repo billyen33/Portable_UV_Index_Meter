@@ -14,7 +14,7 @@ B.U.R.N. Meter is an Arduino Teensy based UV index meter with a ST7789 display c
 | 10k Resistors | Form voltage divider between battery and analog input pin to prevent voltage from exceeding reference | 2 | [DigiKey](https://www.digikey.com/en/products/detail/yageo/CFR-25JB-52-10K/338) |
 | Alpha Nanotech Fused Quartz Plates (Industrial Grade, 30 x 30 x 1 mm) | Protects UV sensor while allowing UV ray to pass through | 1 | [Amazon](https://www.amazon.com/Quartz-Plates-50-30-pcs/dp/B07V2K5X6Y?th=1) |
 | 1/8" Thick Acrylic Sheet | Protects display screen | 1 | [Amazon](https://www.amazon.com/12-Clear-Acrylic-Sheet-Plexiglass/dp/B0899K949Z/ref=sr_1_1_sspa?crid=11Z2CKLK9HV9E&keywords=1%2F8%22+acrylic+sheet&qid=1660278591&sprefix=1%2F8+acrylic+sheet%2Caps%2C80&sr=8-1-spons&psc=1) |
-| 5 mm Long M2 Screws | Fastener for screen, solder board, UV sensor, and housing back cover | 13 | [McMaster-Carr](https://www.mcmaster.com/99461A914) |
+| M2 x 5 mm Screws | Fastener for screen, solder board, UV sensor, and housing back cover | 13 | [McMaster-Carr](https://www.mcmaster.com/99461A914) |
 | Solderable Breadboard | Holds overall circuit | 1 | [Amazon](https://www.amazon.com/ElectroCookie-Solderable-Breadboard-Electronics-Gold-Plated/dp/B07ZV8FWM4/ref=sr_1_17_sspa?crid=1QWR0IIP8EYTR&keywords=solder+board&qid=1660109201&sprefix=solder+board%2Caps%2C77&sr=8-17-spons&psc=1) |
 
 ### Tools Needed:
