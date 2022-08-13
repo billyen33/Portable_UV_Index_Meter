@@ -16,10 +16,12 @@ B.U.R.N. Meter is an Arduino Teensy based UV index meter with a ST7789 display c
 | 1/8" Thick Acrylic Sheet | Protects display screen | 1 | [Amazon](https://www.amazon.com/12-Clear-Acrylic-Sheet-Plexiglass/dp/B0899K949Z/ref=sr_1_1_sspa?crid=11Z2CKLK9HV9E&keywords=1%2F8%22+acrylic+sheet&qid=1660278591&sprefix=1%2F8+acrylic+sheet%2Caps%2C80&sr=8-1-spons&psc=1) |
 | M2 x 5 mm Screws | Fastener for screen, solder board, UV sensor, and housing back cover | 13 | [McMaster-Carr](https://www.mcmaster.com/99461A914) |
 | Solderable Breadboard | Holds overall circuit | 1 | [Amazon](https://www.amazon.com/ElectroCookie-Solderable-Breadboard-Electronics-Gold-Plated/dp/B07ZV8FWM4/ref=sr_1_17_sspa?crid=1QWR0IIP8EYTR&keywords=solder+board&qid=1660109201&sprefix=solder+board%2Caps%2C77&sr=8-17-spons&psc=1) |
+| 22 AWG Solid Copper Wires | Electrical connection between parts | 1 | [Amazon](https://www.amazon.com/Gauge-Wire-Solid-Hookup-Wires/dp/B088KQFHV7/ref=sr_1_1_sspa?crid=3BQ1M6J0D5MS2&keywords=22+awg+solid+copper+wire&qid=1660368051&sprefix=22+awg+solid+copper+wire%2Caps%2C86&sr=8-1-spons&psc=1) |
 
 ### Tools Needed:
 - Hot glue
 - 3D printer
+- Wire stripper/cutter
 - Soldering iron and solder
 - Small M2 Phillips screwdriver (or equivalent if using a different fastener from the one above)
 - Laser cutter (optional, can substitute with a saw or something that can cut acrylic)
@@ -37,7 +39,11 @@ B.U.R.N. Meter is an Arduino Teensy based UV index meter with a ST7789 display c
 </p>
 
 ## CAD
-The full 3D printable model, reference models, and assembly for this project can be exported as SOLIDWORKS or STEP files from [Onshape](https://cad.onshape.com/documents/7501d4a5e180f8697daa31dc/w/079db085b933182b8434c3a9/e/a7e2366d53fa75d2b895b4b3?renderMode=0&uiState=62f5dbd7cfcfff1c8c76f3f0)
+The full 3D printable models, reference models, and assembly for this project can be exported as SOLIDWORKS or STEP files from [Onshape](https://cad.onshape.com/documents/7501d4a5e180f8697daa31dc/w/079db085b933182b8434c3a9/e/a7e2366d53fa75d2b895b4b3?renderMode=0&uiState=62f5dbd7cfcfff1c8c76f3f0)
+<p align="center">
+  <img src="CAD/ExplodedView.png" width="300"/>
+</p>
+
 
 ## Credit
 [Changing image into bitmap to be saved in flash and displayed on screen](https://www.instructables.com/Converting-Images-to-Flash-Memory-Iconsimages-for-/)
