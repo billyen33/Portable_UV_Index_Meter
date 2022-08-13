@@ -34,13 +34,13 @@ void display_texts(int index) {
   
   //Print "UV Index" title
   tft.setCursor(5, 5);
-  tft.setTextColor(ST77XX_RED);
+  tft.setTextColor(ST77XX_YELLOW);
   tft.setTextSize(uv_index_h);
   tft.println("UV Index");
   tft.println("");
 
   //Print index
-  tft.setTextColor(ST77XX_YELLOW);
+  tft.setTextColor(ST77XX_WHITE);
   tft.setTextSize(num_h);
   tft.setCursor(tft.width()/2-String(index).length()*6*num_h/2, 60); //each char gets 6 pixels wider per text size increase
   tft.println(String(index));
@@ -80,7 +80,7 @@ void display_texts(int index) {
   }
   
   //Print interpretation of index
-  tft.setTextColor(ST77XX_YELLOW);
+  tft.setTextColor(ST77XX_WHITE);
   tft.setTextSize(4);
   tft.setCursor(tft.width()/2-strlen(intensity)*6*intensity_h/2, 150);
   for (int i = 0; i < strlen(intensity); i++){
@@ -89,7 +89,7 @@ void display_texts(int index) {
   tft.println("");
 
   //Print burn time
-  tft.setTextColor(ST77XX_RED);
+  tft.setTextColor(ST77XX_YELLOW);
   tft.setTextSize(burn_time_h);
   tft.setCursor(20, 150+6*10);
   tft.print("BURN TIME: ");
