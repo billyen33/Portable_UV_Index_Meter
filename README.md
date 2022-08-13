@@ -55,3 +55,4 @@ The full 3D printable models, reference models, and assembly for this project ca
 
 [Interfacing ST7789 with Arduino](https://simple-circuit.com/arduino-st7789-ips-tft-display-example/)
 
+[UV Index explained and how to stay sun-safe this summer](https://abc17news.com/weather/2020/06/11/uv-index-explained-and-how-to-stay-sun-safe-this-summer/)
