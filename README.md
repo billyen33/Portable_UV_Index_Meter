@@ -49,6 +49,8 @@ The full 3D printable models, reference models, and assembly for this project ca
   <img src="CAD/ExplodedView.png" width="300"/>
 </p>
 
+## Design and Construction
+See the [B.U.R.N. Meter Instructable page](https://www.instructables.com/The-BURN-Meter-Rechargeable-Arduino-UV-Index-Meter/) on how to build your own rechargeable UV index meter!
 
 ## Credit
 [Changing image into bitmap to be saved in flash and displayed on screen](https://www.instructables.com/Converting-Images-to-Flash-Memory-Iconsimages-for-/)
