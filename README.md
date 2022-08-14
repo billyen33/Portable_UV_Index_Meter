@@ -1,5 +1,5 @@
 # :fire: The B.U.R.N. Meter: A Portable UV Index Meter :fire:
-B.U.R.N. Meter is an Arduino Teensy based UV index meter with a ST7789 display capable of measuring UV index and onboard battery voltage in real time. The device features a user-friendly UI that shows the current UV index, the recommended time user should stay outside before getting sunburned, the remaining battery capacity, and dynamic graphics that change based on the measured radiation level. See the B.U.R.N. Meter [Instructable page](https://www.instructables.com/The-BURN-Meter-Rechargeable-Arduino-UV-Index-Meter/) for detail on its conceptualization and construction.
+B.U.R.N. Meter is an Arduino Teensy based UV index meter with a ST7789 display capable of measuring UV index and onboard battery voltage in real time. The device features a user-friendly UI that shows the current UV index, the recommended time user should stay outside before getting sunburned, the remaining battery capacity, and dynamic graphics that change based on the measured radiation level. See the B.U.R.N. Meter [Instructables page](https://www.instructables.com/The-BURN-Meter-Rechargeable-Arduino-UV-Index-Meter/) for detail on its conceptualization and construction.
 <p align="center">
   <img src="BURN Meter.jpg" width="300"/>
 </p>
@@ -50,7 +50,7 @@ The full 3D printable models, reference models, and assembly for this project ca
 </p>
 
 ## Design and Construction
-See the [B.U.R.N. Meter Instructable page](https://www.instructables.com/The-BURN-Meter-Rechargeable-Arduino-UV-Index-Meter/) on how to build your own rechargeable UV index meter!
+See the [B.U.R.N. Meter Instructables page](https://www.instructables.com/The-BURN-Meter-Rechargeable-Arduino-UV-Index-Meter/) on how to build your own rechargeable UV index meter!
 
 ## Credit
 [Changing image into bitmap to be saved in flash and displayed on screen](https://www.instructables.com/Converting-Images-to-Flash-Memory-Iconsimages-for-/)
